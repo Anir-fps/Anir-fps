@@ -1,9 +1,21 @@
-## Hi there 👋
+<div align="center">
 
+# Hi, I'm [Your Name]! 👋
 
-**Anir-fps/Anir-fps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Coffee+Drinker)
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+</div>
 
+## 🚀 About Me
+- 🔭 I’m currently working on **[Project Name]**
+- 🌱 I’m currently learning **Rust & WebAssembly**
+- 💬 Ask me about **React, Node.js, and Cloud Architecture**
+
+## 📊 Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150" alt="languages graph"  />
+</div>
