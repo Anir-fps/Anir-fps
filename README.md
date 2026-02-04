@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Anir ! 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Coffee+Drinker)
 
@@ -10,7 +10,7 @@
 </div>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[Project Name]**
+- 🔭 I’m currently working on **mini-ecom**
 - 🌱 I’m currently learning **Rust & WebAssembly**
 - 💬 Ask me about **React, Node.js, and Cloud Architecture**
 
